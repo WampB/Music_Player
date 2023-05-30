@@ -10,5 +10,5 @@ A simple GUI to play music, design your own music player!
   <p class="details" id="intro_4"><b>介绍四：</b><br>单击◀键可以播放上一首歌曲，单击▶键可以播放下一首歌曲，单击Pause/Continue可以暂停/继续播放歌曲；单击Stop可以停止播放；</p>
   <p class="details" id="intro_5"><b>介绍五：</b><br>再次单击Select Directory可以重新选择mp3文件所在的文件夹并清空现有列表；</p>
   <p class="details" id="intro_6"><b>介绍六：</b><br>当前正在播放的歌曲名称会以“Playing...+歌曲名称”的形式在列表和操作栏之间显示；</p>
-  <p class="details" id="intro_7"><b>介绍七：</b><br>上传了一些自己喜欢听的歌曲，仅作学习交流，请勿用作商业用途（后续会持续更新，欢迎关注）。</p>
+  <p class="details" id="intro_7"><b>介绍七：</b><br>上传了一些自己喜欢听的歌曲，仅作学习交流，请勿用作商业用途。</p>
 </div>
