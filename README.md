@@ -1,7 +1,7 @@
 # Music_Player(基于Python的简易音乐播放器)
 A simple GUI to play music, design your own music player!
 <div id="summary">
-  如果我们仅仅需要播放一些mp3文件，显然不需要安装一个几百MB音乐播放器，用一个不到600KB的Python脚本就可以很好地满足我们的需求，何乐而不为呢？
+  如果我们仅仅需要播放一些mp3文件，显然不需要安装一个几百MB音乐播放器，用一个不到600KB的Python脚本就可以很好地满足我们的需求，并且我们也不会被商用音乐播放器中充斥的大量广告和短视频影响，专心地实现单纯的听音乐的目标，何乐而不为呢？
 </div><br>
 <div id="introduction">
   <p class="details" id="intro_1"><b>介绍一：</b><br>运行Music_Player.py即可（也可以直接双击运行“Music_Player.exe”，这是一个已经打包好的应用程序，大小不到15MB），该脚本基于Python的GUI库tkinter、音乐解析库pygame，使用pip 安装即可；</p>
