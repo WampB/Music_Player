@@ -28,9 +28,9 @@ A simple GUI to play music, design your own music player!
       </li>
       <li>面向列表Listbox()
         <ul>
-          <li>KeyPress-Up: move the cusor up;</li>
+          <li>KeyPress-Up: move the cursor up;</li>
           <li>KeyPress-Down: move the cursor down;</li>
-          <li>Return: play the song currently selected by cusor.</li>
+          <li>Return: play the song currently selected by cursor.</li>
         </ul>
       </li>
     </ol>
