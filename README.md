@@ -21,7 +21,7 @@ A simple GUI to play music, design your own music player!
       <li>面向GUI
         <ul>
           <li>Control+Return: select directory;</li>
-          <li>KeyPress-Left: play previous (neighbor) sont;</li>
+          <li>KeyPress-Left: play previous (neighbor) song;</li>
           <li>KeyPress-Right: play next (neighbor) song;</li>
           <li>Return: play the currently selected song.</li>
         </ul>
